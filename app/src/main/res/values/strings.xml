@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hello,world</string>
+    <string name="input_lable">Enter your name</string>
+    <string name="empty"> </string>
+    <string name="sub">Click</string>
+
+</resources>

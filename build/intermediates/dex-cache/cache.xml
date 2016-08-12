@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/aishu/AndroidStudioProjects/hello,world/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0a9b34beeb79755588a984d24ca9cc98b97af57d">
+        <dex dex="/Users/aishu/AndroidStudioProjects/hello,world/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5180bb7d4f7f7725faa345197f86ce7bf10445dd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/aishu/AndroidStudioProjects/hello,world/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/aishu/AndroidStudioProjects/hello,world/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_4d8a40c159d3826ebd66fe25563750667258edb3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/aishu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/aishu/AndroidStudioProjects/hello,world/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_43b90bb317090a248a4e728437d33852827caff4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/aishu/AndroidStudioProjects/hello,world/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/aishu/AndroidStudioProjects/hello,world/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_055a2c00f1528bb54806cdb4b30596214b179ca5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/aishu/AndroidStudioProjects/hello,world/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/aishu/AndroidStudioProjects/hello,world/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.1.0_3824bf7d2b300e445f1af86f7b7cc822cf0d89e6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/aishu/AndroidStudioProjects/hello,world/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/aishu/AndroidStudioProjects/hello,world/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_6845759d6fbb5590fa795d4388c398a6a1ed707e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/aishu/AndroidStudioProjects/hello,world/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b569dbf434bc7d8efbfae284a38cde6d2dc70757">
+        <dex dex="/Users/aishu/AndroidStudioProjects/hello,world/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a9e7520b5bfec018a8a467e88b8b18f023bab45f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/aishu/AndroidStudioProjects/hello,world/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/aishu/AndroidStudioProjects/hello,world/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_7be21ec3f4e03cbd61cee810c2782d051936bc51/classes.dex" />
+    </item>
+
+</items>
